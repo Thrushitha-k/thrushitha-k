@@ -4,6 +4,7 @@
 
 - 🔭 Currently pursuing a B.Tech in Computer Science and specializing in Machine Learning at VVIT College.
 - 🌱 I’m currently learning about full stack development and machine learning.
+- 💼 Check out my [resume](https://drive.google.com/file/d/1h-MeqKyqXyFFK88xpISOZcFzaocjVLLJ/view?usp=sharing).
 
   <h3>TECH STACK</h3>
   
