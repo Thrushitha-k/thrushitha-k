@@ -4,7 +4,6 @@
 
 - 🔭 Currently pursuing a B.Tech in Computer Science and specializing in Machine Learning at VVIT College.
 - 🌱 I’m currently learning about full stack development and machine learning.
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrushitha-k)
 
   <h3>TECH STACK</h3>
   
@@ -24,6 +23,9 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrushitha-k)
   
   
 
